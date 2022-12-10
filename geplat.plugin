@@ -1,0 +1,9 @@
+[Plugin]
+Loader=python3
+Module=geplat
+IAge=3
+Name=geplat
+Icon=
+Description=A plugin that deletes text input for latency measurment.
+Copyright=Copyright (c) 2022 vairasza <vairasza@mailbox.org>
+Website=http://github.com/vairasza/geplat
